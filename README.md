@@ -14,6 +14,7 @@ Well, first I would like to say that tools are just that, tools. My idea is all 
 <code><img src="img/java.png" width="6%" /></code>
 <code><img src="img/py.png" width="6%" /></code>
 <code><img src="img/sap.png" width="6%" /></code>
+<code><img src="img/go.png" width="6%" /></code>
 </div>
 
 ## Social media
